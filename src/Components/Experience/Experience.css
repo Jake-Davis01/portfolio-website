@@ -17,7 +17,7 @@
 }
 
 .company {
-    flex: 0 0 30%;
+    flex: 0 0 20rem;
     text-align: left;
     text-decoration: underline;
 }
