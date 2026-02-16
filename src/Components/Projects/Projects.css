@@ -1,0 +1,29 @@
+
+.projects {
+    width: 65%;
+    margin: auto;
+    margin-bottom: 6rem;
+    text-align: center;
+}
+
+.projects h2 {
+    margin-bottom: 3rem;
+}
+
+.project {
+    display: flex;
+    align-items: center;
+    padding-left: 8rem;
+    margin-bottom: 1.5rem;
+    border: 3px solid rgb(95, 7, 107);
+    border-radius: 20px;
+}
+
+.project img {
+    width: 18rem;
+}
+
+.project p {
+    padding-left: 1.5rem;
+    text-align: left;
+}

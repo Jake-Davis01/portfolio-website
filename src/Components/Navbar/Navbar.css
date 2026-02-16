@@ -1,0 +1,40 @@
+
+.navbar {
+    display: flex;
+    width: 65%;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 3rem auto 1rem;
+}
+
+.page-links {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.page-links ul {
+    display: flex;
+    background-color: rgba(0,0,0,0.05);
+    list-style: none;
+    padding: 1rem 2rem;
+    gap: 1.5rem;
+    border-radius: 99999px;
+}
+
+.page-links ul a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+.social-links {
+    display: flex;
+    gap: 1.2rem;
+}
+
+.social-link img {
+    width: 2.5rem;
+}

@@ -1,0 +1,43 @@
+
+
+.work-experiences {
+    width: 65%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 4rem;
+}
+
+.work-experiences h2 {
+    margin-bottom: 3rem;
+}
+
+.experience {
+    display: flex;
+    padding-left: 8rem;
+}
+
+.company {
+    flex: 0 0 30%;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.role {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.experience-description {
+    text-align: left;
+    padding-left: 2rem;
+}
+
+.experience-description ul {
+    padding-left: 1rem;
+}
+
+.experience-description li {
+    padding-left: 1rem;
+    margin-bottom: 0.7rem;
+}
+

@@ -1,0 +1,36 @@
+
+
+.education {
+    width: 65%;
+    text-align: center;
+    margin: auto;
+}
+
+.education h2 {
+    margin-bottom: 3rem;
+}
+
+.uni {
+    flex: 0 0 30%;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.education-description {
+    display: flex;
+    padding-left: 8rem;
+}
+
+.uni-description {
+    text-align: left;
+    padding-left: 2rem;
+}
+
+.course {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.grade {
+    margin-top: 1rem;
+}
