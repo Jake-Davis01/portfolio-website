@@ -1,3 +1,6 @@
+import './App.css';
+
+
 import Navbar from '../src/Components/Navbar/Navbar';
 import About from '../src/Components/About/About';
 import Skills from '../src/Components/Skills/Skills';
@@ -8,7 +11,7 @@ import Footer from '../src/Components/Footer/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="fadeInUp-animation">
       <Navbar />
       <About />
       <Skills />
